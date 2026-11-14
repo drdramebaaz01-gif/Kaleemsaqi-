@@ -1,0 +1,6 @@
+{
+  "name": "DK Mart",
+  "description": "Daraz-inspired real-time e-commerce shopping platform with customer store, cart, cash on delivery checkout, and full admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
